@@ -1,7 +1,8 @@
 //LeafNode class.
 //
 //Constructor: can create a Node with 0 - 2 children.
-//@authur Johnny Chavez
+//
+// @author Johnny Chavez
 public class TreeNode <AnyType>{
     public AnyType element;
     public TreeNode R;
