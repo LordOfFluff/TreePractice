@@ -18,6 +18,7 @@
       <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="187">
               <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding />
@@ -31,6 +32,14 @@
             <state relative-caret-position="442">
               <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
               <folding />
+=======
+            <state relative-caret-position="76">
+              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <folding>
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+              </folding>
+>>>>>>> 76dfec705256e74286543dc1e878e3d0eca4b1cd
             </state>
           </provider>
         </entry>
@@ -256,6 +265,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -267,6 +277,14 @@
         <state relative-caret-position="187">
           <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding />
+=======
+        <state relative-caret-position="76">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+>>>>>>> 76dfec705256e74286543dc1e878e3d0eca4b1cd
         </state>
       </provider>
     </entry>
